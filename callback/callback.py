@@ -1,8 +1,8 @@
 
 import requests
 import threading
-
-
+#Karla Maricruz Ruiz Diaz
+#203440, 7B
 def get_service_1(response_json_data):
     print(response_json_data)
 
